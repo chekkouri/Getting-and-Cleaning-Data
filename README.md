@@ -22,7 +22,7 @@ Running the run_analysis.R script
 
 create a directory on your local machine where you would like to clone the repository
 change directory into what you created in #1
-clone this repository : git clone 
+clone this repository : git clone https://github.com/chekkouri/Getting-and-Cleaning-Data
 change directory into the GettingAndCleaningData directory
 start R from the command line
 source("run_analysis.R")
